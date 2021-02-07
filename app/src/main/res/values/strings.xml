@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetpackComposeArrowTalkDemo</string>
+    <string name="errors_repositories_not_found">Oeps, repositories not found 😬</string>
+    <string name="errors_unknown">Oeps, unknown error 🙆🏻‍♂️</string>
+</resources>
